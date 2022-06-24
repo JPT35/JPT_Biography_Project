@@ -1,0 +1,60 @@
+body {
+
+    background-color: black;
+    color: ghostwhite;
+    margin: 50px;
+
+}
+
+h1 {
+    background-color: crimson;
+    padding: 20px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+
+h2 {
+    background-color: crimson;
+    padding: 20px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 5px;
+    color: white;
+    text-align: right;
+    text-shadow: 0 0 3px #050202, 0 0 5px #000000;
+}
+img{
+    float: left;
+    padding: .5px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 5px;
+    
+}
+h3{
+    text-align: center;
+    font-size:  larger;
+}
+p {
+    text-align: center;
+}
+h4 {
+    padding: 100px;
+    color: crimson;
+    text-align: center;
+    font-size: x-large;
+}
+hd4 {
+    color: crimson;
+}
+h5 {
+    color: crimson;
+}
+hd5 {
+    color:crimson;
+}
